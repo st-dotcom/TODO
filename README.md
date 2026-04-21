@@ -1,5 +1,5 @@
 # TODO
-*** Today's task list
+## Today's task list
 * webアプリ開発
 * TOEIC リスニング
 * TOEIC 単語
