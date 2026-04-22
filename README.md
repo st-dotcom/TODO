@@ -8,4 +8,5 @@
 * 証明写真
 
 ## Yesterday's Achievement
-* インターン申し込み
+* マイページ開設
+* 散髪
