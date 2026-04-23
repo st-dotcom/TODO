@@ -1,15 +1,13 @@
 # TODO
 ## Today's Task List
-* webアプリ開発
+* たまゆら
 * TOEIC リスニング
 * TOEIC 単語
 * TOEIC 文法
 * TOEIC 長文
 * 証明写真
-* SPI青本買う
-* 直感LLM読む
-* AtCoder復習
+* 4限出る
 
 ## Yesterday's Achievement
-* マイページ開設
-* 散髪
+* OBに会う
+* SPI青本買う
