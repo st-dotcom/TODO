@@ -6,8 +6,10 @@
 * TOEIC 長文
 * SPI青本
 * 証明写真
-* 新しいリポジトリプッシュ
+* インターン締切まとめる
+* NRIのES出す
 
 ## Yesterday's Achievement
 * 授業でた
 * ゼミ
+* webアプリ開発
