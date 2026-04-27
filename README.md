@@ -6,8 +6,8 @@
 * TOEIC 長文
 * SPI青本
 * 証明写真
+* 新しいリポジトリプッシュ
 
 ## Yesterday's Achievement
-* たまゆら
-* TOEIC単語
-* 四限出る
+* 授業でた
+* ゼミ
