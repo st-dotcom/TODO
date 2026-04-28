@@ -9,6 +9,7 @@
 * インターン締切チェックして出す
 * NRIのES出す
 * SPI時間変更する
+* GMFと面談する
 
 ## Yesterday's Achievement
 * 課題出した
