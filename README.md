@@ -1,12 +1,10 @@
 # TODO
 ## Today's Task List
-* TOEIC
-* SPI
-* 証明写真
+* TOEIC勉強
+* SPI受ける
+* AtCoderコンテスト出る
 * インターン締切チェックして出す
-* NRIのES出す
+* ガクチカ作る
 
 ## Yesterday's Achievement
-* 課題出した
-* インターン出した
-* GMF面談した
+* 本読んだ
