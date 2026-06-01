@@ -1,10 +1,8 @@
 # TODO
 ## Today's Task List
-* TOEIC勉強
-* 情報試験
-* ES提出
-* 
+* 論文読む
+* 研究
+* コーディングテスト
 
 ## Yesterday's Achievement
-* TOEIC
 * ES提出
