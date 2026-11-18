@@ -1,6 +1,9 @@
 # TODO
 ## Today's Task List
-* 英語学習アプリの修正を行う。よりリッチなUIにして、操作性を改善させる
+* 韓国ポスターチェックしてもらう
+* Laya分類結果まとめる
+* 東京での行動スケジュール決める
+* 
 
-## Yesterday's Achievement
-* コーディング
+## Achievement
+* 韓国ポスター作成
